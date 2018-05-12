@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38636#Donahoe-s-Magazine-Volume-XV-No.-3Volume-XV--Jan-1886-Jul-1886-
 gutenberg_bookshelf: Donahoe's Magazine
 gutenberg_issued: '2012-01-21'
 gutenberg_type: Text
